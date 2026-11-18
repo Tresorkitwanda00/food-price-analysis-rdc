@@ -1,0 +1,29 @@
+# Données volumineuses
+data/raw/
+data/interim/
+data/processed/
+
+# Environnements
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
